@@ -25,3 +25,5 @@ coverage/
 
 # Optional: dotenv backups
 .env.*
+
+!.env.example
